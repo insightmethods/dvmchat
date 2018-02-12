@@ -1,1 +1,2 @@
-# dvmchat
+# Chat include files and configuration
+
