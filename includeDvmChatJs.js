@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $.getJSON('https://raw.githubusercontent.com/insightmethods/dvmchat/master/includeDvmChat.json', function(obj) {
+  $.getJSON('https://cdn.rawgit.com/insightmethods/dvmchat/master/includeDvmChat.json', function(obj) {
       if(obj[window.location.hostname])
       {
         ;(function(o,l,a,r,k,y){if(o.olark)return;
